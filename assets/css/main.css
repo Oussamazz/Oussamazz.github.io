@@ -906,10 +906,12 @@
 		}
 
 			#main .avatar img {
-				display: block;
-				margin: 0 auto;
+				display:inline-block;
+				margin: -70px;
+				padding:22px;
+				/* padding-bottom: 90px; */
 				border-radius: 100%;
-				box-shadow: 0 0 0 1.5em #ffffff;
+				box-shadow: 0 0 0 0.133742em #ffffff;
 			}
 
 			#main .avatar:before {
