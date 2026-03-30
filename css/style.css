@@ -650,7 +650,7 @@ footer p {
     }
 
     .scroll-indicator {
-        display: none;
+        display: block;
     }
 
     .section {
